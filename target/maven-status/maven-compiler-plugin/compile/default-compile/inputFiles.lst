@@ -1,0 +1,11 @@
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/dto/Error.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/dto/TemperatureDTO.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/TemperatureApi.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/dto/TemperatureDTOAllOf.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/ApiUtil.java
+/home/st/Documents/MFF/svc-temperature/src/main/java/svc/temperature/TemperatureApp.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/dto/TemperatureItemDTO.java
+/home/st/Documents/MFF/svc-temperature/src/main/java/svc/temperature/api/TemperatureController.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/dto/SuccessResponse.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/dto/ErrorResponse.java
+/home/st/Documents/MFF/svc-temperature/target/generated-sources/openapi/src/main/java/temperature/api/dto/TemperatureItemDTOAllOf.java

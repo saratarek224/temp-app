@@ -1,0 +1,15 @@
+svc/temperature/TemperatureApp.class
+temperature/api/ApiUtil.class
+temperature/api/dto/ErrorResponse.class
+svc/temperature/service/TemperatureService.class
+temperature/api/dto/Error.class
+temperature/api/dto/SuccessResponse.class
+temperature/api/dto/TemperatureDTOAllOf.class
+svc/temperature/api/controller/TemperatureController.class
+svc/temperature/model/Temperature.class
+temperature/api/dto/TemperatureItemsAllOf.class
+temperature/api/dto/TemperatureItems.class
+temperature/api/dto/TemperatureDTO.class
+temperature/api/dto/TemperatureItemDTOAllOf.class
+temperature/api/dto/TemperatureItemDTO.class
+temperature/api/TemperatureApi.class

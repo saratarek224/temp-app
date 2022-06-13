@@ -1,0 +1,11 @@
+src/main/java/temperature/api/ApiUtil.java
+src/main/java/temperature/api/TemperatureApi.java
+src/main/java/temperature/api/dto/Error.java
+src/main/java/temperature/api/dto/ErrorResponse.java
+src/main/java/temperature/api/dto/SuccessResponse.java
+src/main/java/temperature/api/dto/TemperatureDTO.java
+src/main/java/temperature/api/dto/TemperatureDTOAllOf.java
+src/main/java/temperature/api/dto/TemperatureItemDTO.java
+src/main/java/temperature/api/dto/TemperatureItemDTOAllOf.java
+src/main/java/temperature/api/dto/TemperatureItems.java
+src/main/java/temperature/api/dto/TemperatureItemsAllOf.java
